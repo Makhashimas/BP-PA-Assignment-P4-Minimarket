@@ -1,0 +1,153 @@
+=== SELAMAT DATANG DI MINIMARKET CLI ===
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. Sabun - Rp5000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 15)
+5. Kopi - Rp22000 (Stok: 20)
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. Sabun - Rp5000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 15)
+5. Kopi - Rp22000 (Stok: 20)
+
+--- Data Member ---
+1. Anisa - Poin: 500
+2. Budi - Poin: 1000
+
+Nomor barang (1-5): Jumlah: Pakai member? [1] Anisa  [2] Budi  [0] Bukan member:   [DISKON] Poin Budi mencukupi! Diskon 10% dari Rp50000 -> Rp45000 (-1000 poin)
+
+[TRANSAKSI] 2 Susu Terjual. Total: Rp45000
+  -> Member Budi mendapat +100 Poin! (Total poin: 100)
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. Sabun - Rp5000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 13)
+5. Kopi - Rp22000 (Stok: 20)
+
+--- Data Member ---
+1. Anisa - Poin: 500
+2. Budi - Poin: 100
+
+Nomor barang (1-5): Jumlah: Pakai member? [1] Anisa  [2] Budi  [0] Bukan member: 
+[GAGAL] Stok Sampo (Tersisa: 5) tidak cukup untuk dibeli sebanyak 10!
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. Sabun - Rp5000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 13)
+5. Kopi - Rp22000 (Stok: 20)
+
+Nomor barang (1-5): Harga baru: Rp[UPDATE HARGA] Sabun: Rp5000 -> Rp7000
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. Sabun - Rp7000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 13)
+5. Kopi - Rp22000 (Stok: 20)
+
+Nomor barang (1-5): Nama baru: [UPDATE NAMA] Sabun -> SabunMandi
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Data Member ---
+1. Anisa - Poin: 500
+2. Budi - Poin: 100
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+--- Katalog Barang ---
+1. SabunMandi - Rp7000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 13)
+5. Kopi - Rp22000 (Stok: 20)
+
++------------------------------------+
+| [1] Lihat Barang                  |
+| [2] Beli Barang                   |
+| [3] Lihat Member                  |
+| [4] Admin: Update Harga Barang    |
+| [5] Admin: Update Nama Barang     |
+| [6] Keluar                        |
++------------------------------------+
+Pilihan kamu: 
+Terima kasih sudah belanja!
+
+=== UPDATE DATA SETELAH SESI ===
+--- Katalog Barang ---
+1. SabunMandi - Rp7000 (Stok: 10)
+2. Sampo - Rp15000 (Stok: 5)
+3. Roti - Rp12000 (Stok: 8)
+4. Susu - Rp25000 (Stok: 13)
+5. Kopi - Rp22000 (Stok: 20)
+
+--- Data Member ---
+1. Anisa - Poin: 500
+2. Budi - Poin: 100
